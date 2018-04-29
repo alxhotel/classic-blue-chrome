@@ -9,7 +9,7 @@ A Chrome theme that brings you the original Chrome colors. Because sometimes the
 
 ## How to install
 
-Click this link to install the extension:
+Click this link to install the theme:
 
 [https://chrome.google.com/webstore/detail/classic-blue-chrome/nmamkjgcahhgjplbhockochooamcmdec](https://chrome.google.com/webstore/detail/classic-blue-chrome/nmamkjgcahhgjplbhockochooamcmdec)
 
